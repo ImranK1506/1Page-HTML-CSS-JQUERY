@@ -1,0 +1,37 @@
+body {
+	height: 100%;
+	min-height: 100%;
+	background-color: black;	
+}
+
+.vertical-line {
+	transform: rotate(90deg);
+	margin-top: 25%;
+	margin-right: 55%;
+	height: 2%;
+	width:30%;
+	background-color: #636363;
+	text-align: center;
+	position: relative;
+	border-radius: 50px;
+	border-color: black;
+}
+.boxed {
+	color: white;
+	position: absolute;
+	margin-left: 29%;
+	bottom: 460px;
+	font-size: 70px;
+}
+img {
+	position: absolute;
+	width: 100px;
+	margin-top: 16.5%;
+	margin-left: 17%;
+}
+.ordinary {
+	color: white;
+	position: absolute;
+	margin-left: 28.2%;
+	font-size: 70px;
+}
